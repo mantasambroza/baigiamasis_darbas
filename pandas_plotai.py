@@ -15,4 +15,3 @@ col = ''.join(np.where(df.index[df['Serial'] == serial], 'r', 'g').tolist()).str
 
 
 print(f'Pilnas stringas: {col}')
-
