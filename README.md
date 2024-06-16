@@ -19,6 +19,11 @@ Database file must be placed in the project folder.
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
+## App Icon Rights
+
+App icon is taken from: <a href="https://www.flaticon.com/free-icons/laser" title="laser icons">Laser icons created by
+JM Graphic - Flaticon</a>.
+
 ## License
 
 Copyright (c) 2024 Mantas Ambroza

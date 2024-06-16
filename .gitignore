@@ -1,2 +1,8 @@
+# Virtual environment folder
 /.venv/
-database.db
+
+# PyInstaller folders
+build/
+dist/
+
+

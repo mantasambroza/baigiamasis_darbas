@@ -6,7 +6,6 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[
-        ('database.db', '.'),
         ('/Users/mantasambroza/PycharmProjects/baigiamasis_darbas/codeacademy.png', '.')],
     hiddenimports=[],
     hookspath=[],
